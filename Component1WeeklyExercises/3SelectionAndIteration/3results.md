@@ -75,7 +75,9 @@ public class Numberformat {
 
 	}
 
-	<img width="500" height="209" alt="number format" src="https://github.com/user-attachments/assets/de4f13fa-5bf9-4a2a-aec7-3a6838691f84" />
+
+<img width="500" height="209" alt="number format" src="https://github.com/user-attachments/assets/a65e1eaa-93c6-4d41-b7a9-76efbbb80648" />
+
 
 
 2 -  
@@ -147,8 +149,7 @@ public class Rock {
 
 	}
 
-
-	<img width="384" height="134" alt="rock" src="https://github.com/user-attachments/assets/a39187cd-e5f3-4c5e-ad4c-6d828e317789" />
+<img width="384" height="134" alt="rock" src="https://github.com/user-attachments/assets/ad740643-7660-4d3f-8e52-3a5e04764558" />
 
 
 3 -  
@@ -237,11 +238,8 @@ package weekthree;
 
 	}
 
+<img width="413" height="147" alt="punctuation" src="https://github.com/user-attachments/assets/21c986af-e6ec-490d-82e5-cfeb7616d525" />
 
-
-
-
-	<img width="413" height="147" alt="punctuation" src="https://github.com/user-attachments/assets/ee767edc-64da-4ac0-9506-cd4a4ed2ca01" />
 
 
 
