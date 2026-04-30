@@ -46,6 +46,9 @@ public class stringobjects {
 	    }
 	}
 
+<img width="523" height="129" alt="string object" src="https://github.com/user-attachments/assets/c143a40a-99f3-46ce-97c2-85b555a92d0c" />
+
+
 2 -  
 (3 marks)
 
@@ -98,6 +101,11 @@ public class Dice {
     }
 }
 
+<img width="558" height="205" alt="dice" src="https://github.com/user-attachments/assets/39f1b6fa-1b15-4c6f-83bd-925d41309ca7" />
+
+
+
+
 3 -  
 (3 marks)
 
@@ -131,6 +139,12 @@ public class pinEncryption {
         System.out.println("Your encrypted pin number is " + encrypted + ".");
     }
 }
+<img width="502" height="124" alt="pin encryption" src="https://github.com/user-attachments/assets/a7763c56-54a5-4775-a18d-d7f40e83e4e8" />
+
+
+
+
+
 
 4 -  
 (3 marks)
@@ -154,4 +168,10 @@ public class sphereCalculation {
         System.out.printf("Surface area of the sphere: %.4f%n", surfaceArea);
     }
 }
+<img width="466" height="130" alt="sphere cal" src="https://github.com/user-attachments/assets/d4670746-4850-4ba9-b490-2a140f10ecde" />
+
+
+
+
+
 
