@@ -75,6 +75,9 @@ public class Numberformat {
 
 	}
 
+	<img width="500" height="209" alt="number format" src="https://github.com/user-attachments/assets/de4f13fa-5bf9-4a2a-aec7-3a6838691f84" />
+
+
 2 -  
 (3 marks)
 
@@ -144,6 +147,10 @@ public class Rock {
 
 	}
 
+
+	<img width="384" height="134" alt="rock" src="https://github.com/user-attachments/assets/a39187cd-e5f3-4c5e-ad4c-6d828e317789" />
+
+
 3 -  
 (3 marks)
 
@@ -187,6 +194,10 @@ public class StringReverser {
 	}
 
 
+<img width="359" height="123" alt="string reverse" src="https://github.com/user-attachments/assets/c660ada8-5084-47ef-9400-8de746f96029" />
+
+
+
 4 -  
 (3 marks)
 
@@ -225,5 +236,12 @@ package weekthree;
 			
 
 	}
+
+
+
+
+
+	<img width="413" height="147" alt="punctuation" src="https://github.com/user-attachments/assets/ee767edc-64da-4ac0-9506-cd4a4ed2ca01" />
+
 
 
